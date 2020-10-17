@@ -19,7 +19,7 @@ Watch the video on YouTube for instructions:
 
 ### 0. Prerequisites
 - [ ] Linear Algebra and Multivariate Calculus
-    - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+    - [x] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
     - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
